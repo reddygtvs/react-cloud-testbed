@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hosting on <code>S3 Bucket</code> to check if it works
+          Hosting on <code> S3 Bucket testing</code> to check if it works
         </p>
         <a
           className="App-link"
